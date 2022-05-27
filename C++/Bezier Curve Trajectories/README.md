@@ -3,6 +3,7 @@
 
 ## Table of Contents
 * [General info](#general-info)
+* [Technologies](#technologies)
 * [Setup](#setup)
 
 <p align="center">
@@ -11,7 +12,11 @@
 
 
 ## General info
+Simple trajectory made using a 2nd degree Bezier curve
 
+## Technologies
+Project created with:
+* Allegro : 4.4.2
 
 ## Setup
-
+To run the project, install Allegro (see XXXX link)
