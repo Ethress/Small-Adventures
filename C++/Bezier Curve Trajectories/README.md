@@ -21,4 +21,4 @@ Project created with:
 * C++11
 
 ## Setup
-To run the project, install Allegro (see [_How to install Allegro_](https://www.example.com) for tutorial), and make sure Plane.pcx is included in the project.
+To run the project, install Allegro (see [_How to install Allegro_](https://www.example.com) for tutorial (link not working)), and make sure Plane.pcx is included in the project.
