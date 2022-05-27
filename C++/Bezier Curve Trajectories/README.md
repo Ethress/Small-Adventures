@@ -19,4 +19,4 @@ Project created with:
 * Allegro : 4.4.2
 
 ## Setup
-To run the project, install Allegro (see [_How to install Allegro_](https://www.example.com))
+To run the project, install Allegro (see [_How to install Allegro_](https://www.example.com) for tutorial)
