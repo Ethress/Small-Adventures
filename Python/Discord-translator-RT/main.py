@@ -1,3 +1,7 @@
+##########################################################
+#    Overlaps a transparent tkinter window on Discord
+#
+##########################################################
 import tkinter as tk
 import pygetwindow as gw
 import pyautogui
